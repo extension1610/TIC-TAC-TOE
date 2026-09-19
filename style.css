@@ -1,0 +1,102 @@
+
+
+
+
+body{
+    background-color:beige;
+
+}
+
+h2{
+    text-align: center;
+    font-size:50px;
+    color:maroon;
+}
+
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:3rem;
+}
+
+
+.mydiv{
+    height:510px;
+    width:550px;
+    background-color:pink;
+    border:none;
+    border-radius:25px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items:center;
+
+}
+.btn{
+    height:150px;
+    width:150px;
+    display:flex;
+    flex-wrap:wrap;
+    margin:10px;
+    justify-content:center;
+    align-items:center;
+    font-size:4rem;
+    color:brown;
+    border-radius:10px;
+    border:none;
+    background-color:azure;
+    
+    
+}
+.resetbutton{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.reset-button{
+    height:50px;
+    width: 180px;
+    text-align: center;
+    border:none;
+    border-radius:50px;
+    background-color:darkcyan;
+    color:antiquewhite;
+    font-size:16px;
+    
+}
+.newgame{
+        height: 70px;
+    width:300px;
+    text-align: center;
+    border:none;
+    border-radius:75px;
+    background-color:darkcyan;
+    color:antiquewhite;
+    font-size:30px;
+    
+
+
+}
+.btnfornewgame{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:300px;
+    margin-top:0px;
+
+}
+
+.hide{
+    display:none;
+}
+
+.msg{
+    text-align:center;
+    margin-top:350px;
+    font-size:70px;
+    /* font-width: 100px; */
+    color:maroon;
+}
